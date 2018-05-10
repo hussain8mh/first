@@ -1,7 +1,9 @@
-#include<iostream.h>
+#include<iostream>
 using namespace std;
 int main()
 {
-   cout<<"hello github";
+   int a = 10;
+   cout<<"hello github"<<endl;
+   cout<<a;
    return 0;
 }
